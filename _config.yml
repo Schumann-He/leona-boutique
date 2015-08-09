@@ -18,8 +18,8 @@ author_image: "assets/images/author.png"
 
 paginate:	5
 
-url: "http://www.schumann-he.github.io" # the base hostname & protocol for your site
-baseurl: "/leona-boutique"
+url: "http://www.schumann-he.github.io/leona-boutique" # the base hostname & protocol for your site
+baseurl: ""
 
 # social icons and sharing options
 social:
