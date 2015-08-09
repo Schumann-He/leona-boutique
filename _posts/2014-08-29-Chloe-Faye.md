@@ -16,3 +16,5 @@ SS15 most stylish IT bag
 ![Chiara Ferragni with Chloé-Faye](/leona-boutique/assets/images/Chloe-Faye-Chiara.jpg)
 更多Chloé-Faye秀
 ![Chloé-Faye-呛口小辣椒秀](/leona-boutique/assets/images/Chloe-Faye-2.jpg)
+灰色同样深受女神们的宠爱
+![Chloe-Faye-in-grey](/leona-boutique/assets/images/Chloe-Faye-Grey.jpg)
