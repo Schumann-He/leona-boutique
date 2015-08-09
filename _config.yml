@@ -8,13 +8,13 @@ description: "Fashion Hunts"
 
 email: ""
 #blog logo
-logo: "assets/images/author.png"
+logo: "/leona-boutique/assets/images/author.png"
 # blog cover
-cover: "assets/images/cover.png"
+cover: "/leona-boutique/assets/images/cover.png"
 
 name: 'Schumann He'
 author: 'Schumann He'
-author_image: "assets/images/author.png"
+author_image: "/leona-boutique/assets/images/author.png"
 
 paginate:	5
 
