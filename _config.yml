@@ -8,17 +8,17 @@ description: "Fashion Hunts"
 
 email: ""
 #blog logo
-logo: "/assets/images/author.png"
+logo: "assets/images/author.png"
 # blog cover
-cover: "/assets/images/cover.png"
+cover: "assets/images/cover.png"
 
 name: 'Schumann He'
 author: 'Schumann He'
-author_image: "/assets/images/author.png"
+author_image: "assets/images/author.png"
 
 paginate:	5
 
-url: "http://www.Schumann-He.github.io" # the base hostname & protocol for your site
+url: "http://www.schumann-he.github.io" # the base hostname & protocol for your site
 baseurl: "/leona-boutique"
 
 # social icons and sharing options

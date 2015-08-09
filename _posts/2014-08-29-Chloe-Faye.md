@@ -4,7 +4,7 @@ title:  "Chloe Faye"
 date:   2015-07-09 14:34:25
 categories: Fashion Buying
 tags: Chloe Street Lookbook SS15 style
-image: /assets/images/CHLOÉ-Faye-0.jpg
+image: assets/images/CHLOÉ-Faye-0.jpg
 ---
 # Chloe Faye
 
