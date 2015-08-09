@@ -10,7 +10,7 @@ image: /leona-boutique/assets/images/CHLOE-Faye-0.jpg
 
 SS15 most stylish IT bag
 
-![Chloé-Faye](/leona-boutique/assets/images/Chloe-Faye.jpg)
+![Chloe-Faye](/leona-boutique/assets/images/CHLOE-Faye.jpg)
 
 无数时尚博主演艺，麂皮一般用于冬季，但是这一款橙棕色搭配夏季衣服超级亮眼，国内外无数达人明星演绎。
 ![Chiara Ferragni with Chloé-Faye](/leona-boutique/assets/images/Chloe-Faye-Chiara.jpg)
